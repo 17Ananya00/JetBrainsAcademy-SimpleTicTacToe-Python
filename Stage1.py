@@ -1,0 +1,1 @@
+print("X O X" + "\n" + "X O X" + "\n" + "X O X")
